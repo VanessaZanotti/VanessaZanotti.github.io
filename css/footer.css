@@ -43,7 +43,11 @@
     gap: 40px;
   }
 
-  .footer-contato {
-    font-size: 0.5rem;
+  .footer-texto {
+    font-size: 1.2rem;
+  }
+
+  .footer-contato li {
+    font-size: 1rem;
   }
 }
