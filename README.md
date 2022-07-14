@@ -1,2 +1,4 @@
 # Projeto_Portfolio
-Portfolio utilizando HTML e CSS
+Portfolio criado com estudos de HTML e CSS.<br><br>
+
+Link: VanessaZanotti.github.io
